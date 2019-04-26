@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImageUpload</string>
+
+    <string name="age">Age</string>
+    <string name="salary">Salary</string>
+    <string name="name">Name</string>
+    <string name="create_record">Create Record</string>
+    <string name="post_request">Post Request</string>
+    <string name="generated_id">Generated Id</string>
+    <string name="delete_call">Delete Call</string>
+    <string name="put_call">Put Call</string>
+    <string name="post_call">Post Call</string>
+    <string name="get_call">Get Call</string>
+    <string name="update_record">Update Record</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="update_any_field">Update Any Field</string>
+    <string name="for_put_request">For Put Request</string>
+    <string name="for_patch_request">For Patch Request</string>
+    <string name="upload_file_call">Upload File Call</string>
+    <string name="description">Description</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="get_image_from_gallery">Get Image From Gallery</string>
+</resources>
